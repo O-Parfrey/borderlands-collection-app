@@ -16,4 +16,7 @@ A Java-based, menu-driven application built as a final project for my Computer S
 ## Status
 Completed — earned 100% as final course project.
 
-Needs bl4CSV to run.
+## How to Run
+- Compile and run `BorderlandsCollectorApp.java`
+- Follow the console menu prompts
+- Needs bl4CSV in src to run.
