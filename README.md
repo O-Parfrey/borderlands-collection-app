@@ -19,4 +19,4 @@ Completed — earned 100% as final course project.
 ## How to Run
 - Compile and run `BorderlandsCollectorApp.java`
 - Follow the console menu prompts
-- Needs bl4CSV in src to run.
+- Requires `bl4CSV.csv` to be present in the same directory
