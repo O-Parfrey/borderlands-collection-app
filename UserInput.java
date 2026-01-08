@@ -1,6 +1,10 @@
-/*
- * Copied class from another personal project i'm working on that handles user input in its own class
- * for any project I do, chatGPT helped me create it so I stop running into userinput Java bugs.
+/**
+ * Utility class for handling and validating user input across console-based applications.
+ * 
+ * Provides reusable methods for reading and validating common input types
+ * (integers, strings, menu selections) to ensure consistent and safe input handling.
+ *
+ * Designed to centralize input logic and reduce duplication across projects.
  */
 
 import java.util.Scanner;
@@ -86,3 +90,4 @@ public class UserInput {
 		}
 	}
 }
+
