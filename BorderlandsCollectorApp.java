@@ -1,3 +1,5 @@
+// Entry point for the Borderlands Collection App.
+// Initializes the menu system and manages program flow.
 /**
  * The main class of the app
  * 
@@ -15,3 +17,4 @@ public class BorderlandsCollectorApp {
 	}
 
 }
+
